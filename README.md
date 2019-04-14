@@ -1,6 +1,11 @@
 ***
 # [《如何阅读一本书》](https://www.99lib.net/book/1615/index.htm)读书笔记 #
 ***
+
+[＠](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)
+
+
+
 ## <span id="jump">目录</span>  ##
 ****
 * [一、小小前言(o=^•ェ•)o](一前言)
